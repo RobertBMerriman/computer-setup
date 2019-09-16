@@ -4,7 +4,7 @@
 
 - Download iTerm2 (iterm2.com)
 - Download Brew (brew.sh)
-- `brew install zsh-syntax-highlighting git yarn docker`
+- `brew install zsh-syntax-highlighting git yarn`
 - `sudo easy_install pip`
 - Download oh-my-zsh (ohmyz.sh)
 - Configure zsh with Cobolt2 [here](https://github.com/RobertBMerriman/Cobalt2-iterm)
@@ -15,3 +15,4 @@
 ## Apps
 
 - Clipy
+- Docker Desktop
